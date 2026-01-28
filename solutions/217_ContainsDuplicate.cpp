@@ -5,7 +5,7 @@ using namespace std;
 Problem: Contains Duplicate
 LeetCode Link: https://leetcode.com/problems/contains-duplicate/
 Difficulty: 🟢 Easy
-Tags: Array, HashSet
+Tags: Array, HashTable
 Technique: Seen Before Check
 
 Guiding Questions:

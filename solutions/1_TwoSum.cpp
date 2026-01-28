@@ -5,7 +5,7 @@ using namespace std;
 Problem: Two Sum
 LeetCode Link: https://leetcode.com/problems/two-sum/
 Difficulty: 🟢 Easy
-Tags: Array, HashMap
+Tags: Array, HashTable
 Techniques: Complement Lookup
 
 Guiding Questions:
