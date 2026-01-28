@@ -1,0 +1,51 @@
+# LeetCode Problem Solutions (C++)
+
+This repository contains my **C++ solutions to LeetCode problems**.  
+The main focus is on **problem solving, understanding patterns, and building strong DSA skills**.
+
+---
+
+## How to use this repository
+
+- Each problem is listed in the table below.
+- Click the **LeetCode link** to view the problem.  
+- Click the **Solution link** to view the C++ solution.  
+- Use **Ctrl + F** to quickly find problems by:  
+  - Problem ID  
+  - Problem name  
+  - Tags (patterns or secondary topics)  
+
+---
+
+## Repository structure
+
+- `README.md` → Main problem list (this file)
+- `solutions/` → All C++ solution files  
+  - Each solution file contains:  
+    - Problem link  
+    - Main idea / approach (as comments)  
+    - Time and space complexity  
+
+---
+
+## Difficulty Legend
+
+| Difficulty | Icon |
+|------------|------|
+|    Easy    | 🟢 |
+|   Medium   | 🟡 |
+|    Hard    | 🔴 | 
+
+---
+
+## Problem Solutions Table
+
+<!-- 
+| 1 | Two Sum | 🟢 | [Link](https://leetcode.com/problems/two-sum/) | [C++](solutions/1_TwoSum.cpp) | `Array` `HashMap` |  |
+                                                    -->
+
+|  ID  | Problem Name | Difficulty |  LeetCode  |  Solution  |  Tags  |  Techniques  |
+|:----:|:------------:|:----------:|:----------:|:----------:|:------:|:------------:|
+| 1 | Two Sum | 🟢 | [Link](https://leetcode.com/problems/two-sum/) | [C++](solutions/1_TwoSum.cpp) | `Array` `HashMap` | Complement Lookup |
+
+---
