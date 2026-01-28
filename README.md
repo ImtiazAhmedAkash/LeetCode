@@ -47,8 +47,9 @@ The main focus is on **problem solving, understanding patterns, and building str
 |  ID  | Problem Name | Difficulty |  LeetCode  |  Solution  |  Tags  |  Techniques  |
 |:----:|:------------:|:----------:|:----------:|:----------:|:------:|:------------:|
 | 1 | Two Sum | 🟢 | [Link](https://leetcode.com/problems/two-sum/) | [C++](solutions/1_TwoSum.cpp) | `Array` `HashTable` | Complement Lookup |
+| 49 | Group Anagrams | 🟡 | [Link](https://leetcode.com/problems/group-anagrams/) | [C++](solutions/49_GroupAnagrams.cpp) | `Array` `HashTable` `String` `Sorting` | Canonical Representation |
 | 217 | Contains Duplicate | 🟢 | [Link](https://leetcode.com/problems/contains-duplicate/) | [C++](solutions/217_ContainsDuplicate.cpp) | `Array` `HashTable` | Seen Before Check |
-| 242 | Valid Anagram | 🟢 | [Link](https://leetcode.com/problems/valid-anagram/) | [C++](solutions/242_ValidAnagram.cpp) | `String` `Array` | Frequency Counting |
+| 242 | Valid Anagram | 🟢 | [Link](https://leetcode.com/problems/valid-anagram/) | [C++](solutions/242_ValidAnagram.cpp) | `Array` `String` | Frequency Counting |
 
 
 ---
