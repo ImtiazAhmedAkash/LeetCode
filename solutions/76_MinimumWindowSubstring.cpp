@@ -4,7 +4,7 @@ using namespace std;
 /*
 Problem: Minimum Window Substring
 LeetCode Link: https://leetcode.com/problems/minimum-window-substring/
-Difficulty: 🟠 Hard
+Difficulty: 🔴 Hard
 Tags: SlidingWindow, Hashing
 Technique: Sliding Window (Frequency Tracking)
 
