@@ -57,6 +57,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 125 | Valid Palindrome | 🟢 | [Link](https://leetcode.com/problems/valid-palindrome/) | [C++](solutions/125_ValidPalindrome.cpp) | `String` `TwoPointers` | Filter + Two-Pointer Check |
 | 217 | Contains Duplicate | 🟢 | [Link](https://leetcode.com/problems/contains-duplicate/) | [C++](solutions/217_ContainsDuplicate.cpp) | `Array` `HashTable` | Seen Before Check |
 | 242 | Valid Anagram | 🟢 | [Link](https://leetcode.com/problems/valid-anagram/) | [C++](solutions/242_ValidAnagram.cpp) | `Array` `String` | Frequency Counting |
+| 347 | Top K Frequent Elements | 🟡 | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](solutions/347_TopKFrequentElements.cpp) | `Hashing` `Heap` | Hash Map + Max Heap |
 | 424 | Longest Repeating Character Replacement | 🟡 | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) | [C++](solutions/424_LongestRepeatingCharacterReplacement.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
 
 ---
