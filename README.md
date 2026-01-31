@@ -47,6 +47,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 |  ID  | Problem Name | Difficulty |  LeetCode  |  Solution  |  Tags  |  Techniques  |
 |:----:|:-------------|:----------:|:----------:|:----------:|:------:|:------------:|
 | 1 | Two Sum | 🟢 | [Link](https://leetcode.com/problems/two-sum/) | [C++](solutions/1_TwoSum.cpp) | `Array` `HashTable` | Complement Lookup |
+| 3 | Longest Substring Without Repeating Characters | 🟡 | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](solutions/3_LongestSubstringWithoutRepeatingCharacters.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
 | 11 | Container With Most Water | 🟡 | [Link](https://leetcode.com/problems/container-with-most-water/) | [C++](solutions/11_ContainerWithMostWater.cpp) | `Array` `TwoPointers` | Two Pointers (Greedy Shrinking) |
 | 15 | 3Sum | 🟡 | [Link](https://leetcode.com/problems/3sum/) | [C++](solutions/15_3Sum.cpp) | `Array` `TwoPointers` `Sorting` | Fixed Element + Two Pointers |
 | 20 | Valid Parentheses | 🟢 | [Link](https://leetcode.com/problems/valid-parentheses/) | [C++](solutions/20_ValidParentheses.cpp) | `Stack` `String` | Stack (Bracket Matching) |
