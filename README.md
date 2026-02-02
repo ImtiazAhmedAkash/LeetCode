@@ -55,6 +55,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 76 | Minimum Window Substring | 🔴 | [Link](https://leetcode.com/problems/minimum-window-substring/) | [C++](solutions/76_MinimumWindowSubstring.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solutions/121_BestTimeToBuyAndSellStock.cpp) | `Array` `Greedy` | Single Pass (Track Min & Max) |
 | 125 | Valid Palindrome | 🟢 | [Link](https://leetcode.com/problems/valid-palindrome/) | [C++](solutions/125_ValidPalindrome.cpp) | `String` `TwoPointers` | Filter + Two-Pointer Check |
+| 128 | Longest Consecutive Sequence | 🟡 | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](solutions/128_LongestConsecutiveSequence.cpp) | `Array` `HashTable` | Hash Set + Sequence Start Detection |
 | 217 | Contains Duplicate | 🟢 | [Link](https://leetcode.com/problems/contains-duplicate/) | [C++](solutions/217_ContainsDuplicate.cpp) | `Array` `HashTable` | Seen Before Check |
 | 238 | Product of Array Except Self | 🟡 | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [C++](solutions/238_ProductOfArrayExceptSelf.cpp) | `Array` `PrefixSum` | Prefix & Suffix Product |
 | 242 | Valid Anagram | 🟢 | [Link](https://leetcode.com/problems/valid-anagram/) | [C++](solutions/242_ValidAnagram.cpp) | `Array` `String` | Frequency Counting |
