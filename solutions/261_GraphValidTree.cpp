@@ -4,7 +4,7 @@ using namespace std;
 /*
 Problem: Graph Valid Tree
 LeetCode Link: https://leetcode.com/problems/graph-valid-tree/
-NeetCode Link: https://neetcode.io/problems/graph-valid-tree
+NeetCode Link: https://neetcode.io/problems/valid-tree
 Difficulty: 🟡 Medium
 Tags: Graph, DFS
 Technique: DFS + Cycle Detection
