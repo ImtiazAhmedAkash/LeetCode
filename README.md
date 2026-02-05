@@ -65,5 +65,6 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 323 | Number of Connected Components in an Undirected Graph | 🟡 | [LeetCode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) [NeetCode](https://neetcode.io/problems/count-connected-components) | [C++](solutions/323_NumberOfConnectedComponents.cpp) | `Graph` `DSU` | Disjoint Set Union |
 | 347 | Top K Frequent Elements | 🟡 | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](solutions/347_TopKFrequentElements.cpp) | `Hashing` `Heap` | Hash Map + Max Heap |
 | 424 | Longest Repeating Character Replacement | 🟡 | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) | [C++](solutions/424_LongestRepeatingCharacterReplacement.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
+| 3379 | Transformed Array | 🟢 | [LeetCode](https://leetcode.com/problems/transformed-array/) | [C++](solutions/3379_TransformedArray.cpp) | `Array` `Simulation` | Index Mapping with Modulo |
 
 ---
