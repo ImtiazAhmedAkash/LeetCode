@@ -71,5 +71,6 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 417 | Pacific Atlantic Water Flow | 🟡 | [Link](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [C++](solutions/417_PacificAtlanticWaterFlow.cpp) | `Matrix` `DFS` | Reverse DFS from Borders |
 | 424 | Longest Repeating Character Replacement | 🟡 | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) | [C++](solutions/424_LongestRepeatingCharacterReplacement.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
 | 3379 | Transformed Array | 🟢 | [Link](https://leetcode.com/problems/transformed-array/) | [C++](solutions/3379_TransformedArray.cpp) | `Array` `Simulation` | Index Mapping with Modulo |
+| 3634 | Minimum Removals to Balance Array | 🟡 | [Link](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [C++](solutions/3634_MinimumRemovalsToBalanceArray.cpp) | `TwoPointers` `SlidingWindow` `Sorting` | Sliding Window on Sorted Array |
 
 ---
