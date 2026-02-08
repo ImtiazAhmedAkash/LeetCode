@@ -59,6 +59,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solutions/121_BestTimeToBuyAndSellStock.cpp) | `Array` `Greedy` | Single Pass (Track Min & Max) |
 | 125 | Valid Palindrome | 🟢 | [Link](https://leetcode.com/problems/valid-palindrome/) | [C++](solutions/125_ValidPalindrome.cpp) | `String` `TwoPointers` | Filter + Two-Pointer Check |
 | 128 | Longest Consecutive Sequence | 🟡 | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](solutions/128_LongestConsecutiveSequence.cpp) | `Array` `HashTable` | Hash Set + Sequence Start Detection |
+| 198 | House Robber | 🟡 | [Link](https://leetcode.com/problems/house-robber/) | [C++](solutions/198_HouseRobber.cpp) | `DP` `Memoization` | Top-Down Recursion |
 | 200 | Number of Islands | 🟡 | [Link](https://leetcode.com/problems/number-of-islands/) | [C++](solutions/200_NumberOfIslands.cpp) | `Matrix` `DFS` | DFS Flood Fill |
 | 207 | Course Schedule | 🟡 | [Link](https://leetcode.com/problems/course-schedule/) | [C++](solutions/207_CourseSchedule.cpp) | `Graph` `BFS` `TopologicalSort` | Kahn’s Algorithm |
 | 217 | Contains Duplicate | 🟢 | [Link](https://leetcode.com/problems/contains-duplicate/) | [C++](solutions/217_ContainsDuplicate.cpp) | `Array` `HashTable` | Seen Before Check |
