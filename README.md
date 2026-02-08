@@ -62,6 +62,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 198 | House Robber | 🟡 | [Link](https://leetcode.com/problems/house-robber/) | [C++](solutions/198_HouseRobber.cpp) | `DP` `Memoization` | Top-Down Recursion |
 | 200 | Number of Islands | 🟡 | [Link](https://leetcode.com/problems/number-of-islands/) | [C++](solutions/200_NumberOfIslands.cpp) | `Matrix` `DFS` | DFS Flood Fill |
 | 207 | Course Schedule | 🟡 | [Link](https://leetcode.com/problems/course-schedule/) | [C++](solutions/207_CourseSchedule.cpp) | `Graph` `BFS` `TopologicalSort` | Kahn’s Algorithm |
+| 213 | House Robber II | 🟡 | [Link](https://leetcode.com/problems/house-robber-ii/) | [C++](solutions/213_HouseRobberII.cpp) | `DP` `Memoization` | Break Cycle into Two Linear DP |
 | 217 | Contains Duplicate | 🟢 | [Link](https://leetcode.com/problems/contains-duplicate/) | [C++](solutions/217_ContainsDuplicate.cpp) | `Array` `HashTable` | Seen Before Check |
 | 238 | Product of Array Except Self | 🟡 | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [C++](solutions/238_ProductOfArrayExceptSelf.cpp) | `Array` `PrefixSum` | Prefix & Suffix Product |
 | 242 | Valid Anagram | 🟢 | [Link](https://leetcode.com/problems/valid-anagram/) | [C++](solutions/242_ValidAnagram.cpp) | `Array` `String` | Frequency Counting |
