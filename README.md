@@ -57,6 +57,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 55 | Jump Game | 🟡 | [Link](https://leetcode.com/problems/jump-game/) | [C++](solutions/55_JumpGame.cpp) | `Array` `Greedy` | Farthest Reach |
 | 70 | Climbing Stairs | 🟢 | [Link](https://leetcode.com/problems/climbing-stairs/) | [C++](solutions/70_ClimbingStairs.cpp) | `DP` `Memoization` | Count Ways Recurrence |
 | 76 | Minimum Window Substring | 🔴 | [Link](https://leetcode.com/problems/minimum-window-substring/) | [C++](solutions/76_MinimumWindowSubstring.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
+| 91 | Decode Ways | 🟡 | [Link](https://leetcode.com/problems/decode-ways/) | [C++](solutions/91_DecodeWays.cpp) | `DP` `String` `Recursion` | Memoization (1-step / 2-step transitions) |
 | 110 | Balanced Binary Tree | 🟢 | [Link](https://leetcode.com/problems/balanced-binary-tree/) | [C++](solutions/110_BalancedBinaryTree.cpp) | `Tree` `DFS` | Height Checking During DFS |
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solutions/121_BestTimeToBuyAndSellStock.cpp) | `Array` `Greedy` | Single Pass (Track Min & Max) |
 | 125 | Valid Palindrome | 🟢 | [Link](https://leetcode.com/problems/valid-palindrome/) | [C++](solutions/125_ValidPalindrome.cpp) | `String` `TwoPointers` | Filter + Two-Pointer Check |
