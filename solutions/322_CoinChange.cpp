@@ -6,7 +6,7 @@ Problem: Coin Change
 LeetCode Link: https://leetcode.com/problems/coin-change/
 Difficulty: 🟡 Medium
 Tags: DP, Recursion, Knapsack
-Techniques: Unbounded Knapsack (Minimization) + Memoization
+Techniques: Unbounded Knapsack + Memoization
 
 Guiding Questions:
 - What is the minimum number of coins needed to make a given amount?
