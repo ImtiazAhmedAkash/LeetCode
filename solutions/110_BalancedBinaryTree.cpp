@@ -24,7 +24,6 @@ Time Complexity: O(n) — each node is visited once
 Space Complexity: O(h) — recursion stack (tree height)
 */
 
-
 //--------------------  Definition for a binary tree node. -------------------------------
 struct TreeNode {
     int val;
