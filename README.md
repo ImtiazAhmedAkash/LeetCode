@@ -83,5 +83,6 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 1653 | Minimum Deletions to Make String Balanced | 🟡 | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [C++](solutions/1653_MinimumDeletionsToMakeStringBalanced.cpp) | `String` `PrefixSum` | Prefix-Suffix Cut Minimization |
 | 3379 | Transformed Array | 🟢 | [Link](https://leetcode.com/problems/transformed-array/) | [C++](solutions/3379_TransformedArray.cpp) | `Array` `Simulation` | Index Mapping with Modulo |
 | 3634 | Minimum Removals to Balance Array | 🟡 | [Link](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [C++](solutions/3634_MinimumRemovalsToBalanceArray.cpp) | `TwoPointers` `SlidingWindow` `Sorting` | Sliding Window on Sorted Array |
+| 3719 | Longest Balanced Subarray I | 🟡 | [Link](https://leetcode.com/problems/longest-balanced-subarray-i/) | [C++](solutions/3719_LongestBalancedSubarrayI.cpp) | `Array` `HashTable` `BruteForce` | Distinct Even-Odd Frequency Matching |
 
 ---
