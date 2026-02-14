@@ -3,7 +3,7 @@ using namespace std;
 
 /*
 Problem: Count Number of Homogenous Substrings
-Link: https://leetcode.com/problems/count-number-of-homogenous-substrings/
+LeetCode Link: https://leetcode.com/problems/count-number-of-homogenous-substrings/
 Difficulty: 🟡 Medium
 Tags: String, Math, PrefixSum
 Techniques: Consecutive Character Contribution
