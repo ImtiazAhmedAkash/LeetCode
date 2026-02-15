@@ -63,6 +63,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](solutions/121_BestTimeToBuyAndSellStock.cpp) | `Array` `Greedy` | Single Pass (Track Min & Max) |
 | 125 | Valid Palindrome | 🟢 | [Link](https://leetcode.com/problems/valid-palindrome/) | [C++](solutions/125_ValidPalindrome.cpp) | `String` `TwoPointers` | Filter + Two-Pointer Check |
 | 128 | Longest Consecutive Sequence | 🟡 | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](solutions/128_LongestConsecutiveSequence.cpp) | `Array` `HashTable` | Hash Set + Sequence Start Detection |
+| 139 | Word Break | 🟡 | [Link](https://leetcode.com/problems/word-break/) | [C++](solutions/139_WordBreak.cpp) | `String` `DP` `Recursion` | Memoized Recursion (String Partitioning) |
 | 152 | Maximum Product Subarray | 🟡 | [Link](https://leetcode.com/problems/maximum-product-subarray/) | [C++](solutions/152_MaximumProductSubarray.cpp) | `Array` `DP` | Kadane Variant (Max-Min Tracking) |
 | 198 | House Robber | 🟡 | [Link](https://leetcode.com/problems/house-robber/) | [C++](solutions/198_HouseRobber.cpp) | `DP` `Memoization` | Top-Down Recursion |
 | 200 | Number of Islands | 🟡 | [Link](https://leetcode.com/problems/number-of-islands/) | [C++](solutions/200_NumberOfIslands.cpp) | `Matrix` `DFS` | DFS Flood Fill |
