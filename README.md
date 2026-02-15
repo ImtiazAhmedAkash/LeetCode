@@ -55,6 +55,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 49 | Group Anagrams | 🟡 | [Link](https://leetcode.com/problems/group-anagrams/) | [C++](solutions/49_GroupAnagrams.cpp) | `Array` `HashTable` `String` `Sorting` | Canonical Representation |
 | 53 | Maximum Subarray | 🟡 | [Link](https://leetcode.com/problems/maximum-subarray/) | [C++](solutions/53_MaximumSubarray.cpp) | `Array` `DP` | Kadane’s Algorithm |
 | 55 | Jump Game | 🟡 | [Link](https://leetcode.com/problems/jump-game/) | [C++](solutions/55_JumpGame.cpp) | `Array` `Greedy` | Farthest Reach |
+| 67 | Add Binary | 🟢 | [Link](https://leetcode.com/problems/add-binary/) | [C++](solutions/67_AddBinary.cpp) | `String` `Math` `Simulation` | Bit-by-Bit Addition (Carry Handling) |
 | 70 | Climbing Stairs | 🟢 | [Link](https://leetcode.com/problems/climbing-stairs/) | [C++](solutions/70_ClimbingStairs.cpp) | `DP` `Memoization` | Count Ways Recurrence |
 | 76 | Minimum Window Substring | 🔴 | [Link](https://leetcode.com/problems/minimum-window-substring/) | [C++](solutions/76_MinimumWindowSubstring.cpp) | `SlidingWindow` `Hashing` | Sliding Window (Frequency Tracking) |
 | 91 | Decode Ways | 🟡 | [Link](https://leetcode.com/problems/decode-ways/) | [C++](solutions/91_DecodeWays.cpp) | `DP` `String` `Recursion` | Memoization (1-step / 2-step transitions) |
