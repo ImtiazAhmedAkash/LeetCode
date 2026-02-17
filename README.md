@@ -83,6 +83,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 322 | Coin Change | 🟡 | [Link](https://leetcode.com/problems/coin-change/) | [C++](solutions/322_CoinChange.cpp) | `DP` `Recursion` `Knapsack` | Unbounded Knapsack + Memoization |
 | 323 | Number of Connected Components in an Undirected Graph | 🟡 | [LeetCode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) [NeetCode](https://neetcode.io/problems/count-connected-components) | [C++](solutions/323_NumberOfConnectedComponents.cpp) | `Graph` `DSU` | Disjoint Set Union |
 | 337 | House Robber III | 🟡 | [Link](https://leetcode.com/problems/house-robber-iii/) | [C++](solutions/337_HouseRobberIII.cpp) | `Tree` `DP` `DFS` | Tree DP (Take / Skip State) |
+| 338 | Counting Bits | 🟢 | [Link](https://leetcode.com/problems/counting-bits/) | [C++](solutions/338_CountingBits.cpp) | `DP` `BitManipulation` | Bit DP Recurrence |
 | 347 | Top K Frequent Elements | 🟡 | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](solutions/347_TopKFrequentElements.cpp) | `Hashing` `Heap` | Hash Map + Max Heap |
 | 401 | Binary Watch | 🟢 | [Link](https://leetcode.com/problems/binary-watch/) | [C++](solutions/401_BinaryWatch.cpp) | `BitManipulation` `Enumeration` | Brute Force Enumeration + Popcount |
 | 417 | Pacific Atlantic Water Flow | 🟡 | [Link](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [C++](solutions/417_PacificAtlanticWaterFlow.cpp) | `Matrix` `DFS` | Reverse DFS from Borders |
