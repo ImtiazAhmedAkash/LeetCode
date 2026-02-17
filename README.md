@@ -67,6 +67,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 139 | Word Break | 🟡 | [Link](https://leetcode.com/problems/word-break/) | [C++](solutions/139_WordBreak.cpp) | `String` `DP` `Recursion` | Memoized Recursion (String Partitioning) |
 | 152 | Maximum Product Subarray | 🟡 | [Link](https://leetcode.com/problems/maximum-product-subarray/) | [C++](solutions/152_MaximumProductSubarray.cpp) | `Array` `DP` | Kadane Variant (Max-Min Tracking) |
 | 190 | Reverse Bits | 🟢 | [Link](https://leetcode.com/problems/reverse-bits/) | [C++](solutions/190_ReverseBits.cpp) | `BitManipulation` | Bit Mirroring |
+| 191 | Number of 1 Bits | 🟢 | [Link](https://leetcode.com/problems/number-of-1-bits/) | [C++](solutions/191_NumberOf1Bits.cpp) | `BitManipulation` | Built-in Popcount |
 | 198 | House Robber | 🟡 | [Link](https://leetcode.com/problems/house-robber/) | [C++](solutions/198_HouseRobber.cpp) | `DP` `Memoization` | Top-Down Recursion |
 | 200 | Number of Islands | 🟡 | [Link](https://leetcode.com/problems/number-of-islands/) | [C++](solutions/200_NumberOfIslands.cpp) | `Matrix` `DFS` | DFS Flood Fill |
 | 207 | Course Schedule | 🟡 | [Link](https://leetcode.com/problems/course-schedule/) | [C++](solutions/207_CourseSchedule.cpp) | `Graph` `BFS` `TopologicalSort` | Kahn’s Algorithm |
