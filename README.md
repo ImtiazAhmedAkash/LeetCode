@@ -93,6 +93,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 560 | Subarray Sum Equals K | 🟡 | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](solutions/560_SubarraySumEqualsK.cpp) | `Array` `PrefixSum` `HashTable` | Prefix Sum Frequency Counting |
 | 647 | Palindromic Substrings | 🟡 | [Link](https://leetcode.com/problems/palindromic-substrings/) | [C++](solutions/647_PalindromicSubstrings.cpp) | `String` `DP` `Memoization` | Palindrome DP on Substrings |
 | 693 | Binary Number with Alternating Bits | 🟢 | [Link](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [C++](solutions/693_BinaryNumberWithAlternatingBits.cpp) | `BitManipulation` | XOR Pattern + All Ones Check |
+| 696 | Count Binary Substrings | 🟢 | [Link](https://leetcode.com/problems/count-binary-substrings/) | [C++](solutions/696_CountBinarySubstrings.cpp) | `String` `TwoPointers` | Consecutive Group Counting |
 | 799 | Champagne Tower | 🟡 | [Link](https://leetcode.com/problems/champagne-tower/) | [C++](solutions/799_ChampagneTower.cpp) | `DP` `Simulation` | Row-by-Row Flow Simulation |
 | 930 | Binary Subarrays With Sum | 🟡 | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](solutions/930_BinarySubarraysWithSum.cpp) | `Array` `PrefixSum` `HashTable` | Contribution Counting via Prefix Sum |
 | 1143 | Longest Common Subsequence | 🟡 | [Link](https://leetcode.com/problems/longest-common-subsequence/) | [C++](solutions/1143_LongestCommonSubsequence.cpp) | `DP` `String` | Iterative DP |
