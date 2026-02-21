@@ -55,6 +55,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 49 | Group Anagrams | 🟡 | [Link](https://leetcode.com/problems/group-anagrams/) | [C++](solutions/49_GroupAnagrams.cpp) | `Array` `HashTable` `String` `Sorting` | Canonical Representation |
 | 53 | Maximum Subarray | 🟡 | [Link](https://leetcode.com/problems/maximum-subarray/) | [C++](solutions/53_MaximumSubarray.cpp) | `Array` `DP` | Kadane’s Algorithm |
 | 55 | Jump Game | 🟡 | [Link](https://leetcode.com/problems/jump-game/) | [C++](solutions/55_JumpGame.cpp) | `Array` `Greedy` | Farthest Reach |
+| 56 | Merge Intervals | 🟡 | [Link](https://leetcode.com/problems/merge-intervals/) | [C++](solutions/56_MergeIntervals.cpp) | `Array` `Sorting` `Intervals` | Sort + Greedy |
 | 57 | Insert Interval | 🟡 | [Link](https://leetcode.com/problems/insert-interval/) | [C++](solutions/57_InsertInterval.cpp) | `Array` `Intervals` `Simulation` | Three-Phase Interval Merge |
 | 62 | Unique Paths | 🟡 | [Link](https://leetcode.com/problems/unique-paths/) | [C++](solutions/62_UniquePaths.cpp) | `DP` `Combinatorics` | Grid DP (Rolling Array) |
 | 67 | Add Binary | 🟢 | [Link](https://leetcode.com/problems/add-binary/) | [C++](solutions/67_AddBinary.cpp) | `String` `Math` `Simulation` | Bit-by-Bit Addition (Carry Handling) |
