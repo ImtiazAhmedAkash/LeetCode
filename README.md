@@ -98,6 +98,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 696 | Count Binary Substrings | 🟢 | [Link](https://leetcode.com/problems/count-binary-substrings/) | [C++](solutions/696_CountBinarySubstrings.cpp) | `String` `TwoPointers` | Consecutive Group Counting |
 | 762 | Prime Number of Set Bits in Binary Representation | 🟢 | [Link](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [C++](solutions/762_PrimeNumberOfSetBits.cpp) | `BitManipulation` `Math` | Popcount + Prime Check |
 | 799 | Champagne Tower | 🟡 | [Link](https://leetcode.com/problems/champagne-tower/) | [C++](solutions/799_ChampagneTower.cpp) | `DP` `Simulation` | Row-by-Row Flow Simulation |
+| 868 | Binary Gap | 🟢 | [Link](https://leetcode.com/problems/binary-gap/) | [C++](solutions/868_BinaryGap.cpp) | `BitManipulation` | Track Consecutive Set Bits |
 | 930 | Binary Subarrays With Sum | 🟡 | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](solutions/930_BinarySubarraysWithSum.cpp) | `Array` `PrefixSum` `HashTable` | Contribution Counting via Prefix Sum |
 | 1143 | Longest Common Subsequence | 🟡 | [Link](https://leetcode.com/problems/longest-common-subsequence/) | [C++](solutions/1143_LongestCommonSubsequence.cpp) | `DP` `String` | Iterative DP |
 | 1382 | Balance a Binary Search Tree | 🟡 | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/) | [C++](solutions/1382_BalanceABinarySearchTree.cpp) | `Tree` `BST` `DFS` `Divide & Conquer` | Inorder + Build from Sorted Array |
