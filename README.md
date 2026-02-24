@@ -40,9 +40,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 
 ## Problem Solutions Table
 
-<!-- 
-| 1 | Two Sum | 🟢 | [Link](https://leetcode.com/problems/two-sum/) | [C++](solutions/1_TwoSum.cpp) | `Array` `HashMap` |  |
-                                                    -->
+#### Solve Count: 66
 
 |  ID  | Problem Name | Difficulty |  LeetCode  |  Solution  |  Tags  |  Techniques  |
 |:----:|:-------------|:----------:|:----------:|:----------:|:------:|:------------:|
@@ -102,6 +100,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 930 | Binary Subarrays With Sum | 🟡 | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](solutions/930_BinarySubarraysWithSum.cpp) | `Array` `PrefixSum` `HashTable` | Contribution Counting via Prefix Sum |
 | 1143 | Longest Common Subsequence | 🟡 | [Link](https://leetcode.com/problems/longest-common-subsequence/) | [C++](solutions/1143_LongestCommonSubsequence.cpp) | `DP` `String` | Iterative DP |
 | 1382 | Balance a Binary Search Tree | 🟡 | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/) | [C++](solutions/1382_BalanceABinarySearchTree.cpp) | `Tree` `BST` `DFS` `Divide & Conquer` | Inorder + Build from Sorted Array |
+| 1461 | Check If a String Contains All Binary Codes of Size K | 🟡 | [Link](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](solutions/1461_CheckIfStringContainsAllBinaryCodesOfSizeK.cpp) | `String` `BitManipulation` `SlidingWindow` | Rolling Bitmask |
 | 1513 | Number of Substrings With Only 1s | 🟡 | [Link](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [C++](solutions/1513_NumberOfSubstringsWithOnly1s.cpp) | `String` `Math` `Prefix Sum` | Consecutive Ones Contribution |
 | 1524 | Number of Sub-arrays With Odd Sum | 🟡 | [Link](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [C++](solutions/1524_NumberOfSubarraysWithOddSum.cpp) | `Prefix Sum` `Parity` `HashTable` | Prefix Parity Counting |
 | 1653 | Minimum Deletions to Make String Balanced | 🟡 | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [C++](solutions/1653_MinimumDeletionsToMakeStringBalanced.cpp) | `String` `PrefixSum` | Prefix-Suffix Cut Minimization |
