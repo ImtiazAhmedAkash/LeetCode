@@ -40,7 +40,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 
 ## Problem Solutions Table
 
-#### Solve Count: 68
+#### Solve Count: 70
 
 |  ID  | Problem Name | Difficulty |  LeetCode  |  Solution  |  Tags  |  Techniques  |
 |:----:|:-------------|:----------:|:----------:|:----------:|:------:|:------------:|
@@ -101,6 +101,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 930 | Binary Subarrays With Sum | 🟡 | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](solutions/930_BinarySubarraysWithSum.cpp) | `Array` `PrefixSum` `HashTable` | Contribution Counting via Prefix Sum |
 | 1022 | Sum of Root To Leaf Binary Numbers | 🟢 | [Link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [C++](solutions/1022_SumRootToLeafBinaryNumbers.cpp) | `Tree` `DFS` `BitManipulation` | Build Number During DFS |
 | 1143 | Longest Common Subsequence | 🟡 | [Link](https://leetcode.com/problems/longest-common-subsequence/) | [C++](solutions/1143_LongestCommonSubsequence.cpp) | `DP` `String` | Iterative DP |
+| 1356 | Sort Integers by The Number of 1 Bits | 🟢 | [Link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [C++](solutions/1356_SortIntegersByTheNumberOf1Bits.cpp) | `Array` `BitManipulation` `Sorting` | Custom Comparator |
 | 1382 | Balance a Binary Search Tree | 🟡 | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/) | [C++](solutions/1382_BalanceABinarySearchTree.cpp) | `Tree` `BST` `DFS` `Divide & Conquer` | Inorder + Build from Sorted Array |
 | 1461 | Check If a String Contains All Binary Codes of Size K | 🟡 | [Link](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](solutions/1461_CheckIfStringContainsAllBinaryCodesOfSizeK.cpp) | `String` `BitManipulation` `SlidingWindow` | Rolling Bitmask |
 | 1513 | Number of Substrings With Only 1s | 🟡 | [Link](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [C++](solutions/1513_NumberOfSubstringsWithOnly1s.cpp) | `String` `Math` `Prefix Sum` | Consecutive Ones Contribution |
