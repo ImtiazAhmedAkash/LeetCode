@@ -40,7 +40,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 
 ## Problem Solutions Table
 
-#### Solve Count: 70
+#### Solve Count: 71
 
 |  ID  | Problem Name | Difficulty |  LeetCode  |  Solution  |  Tags  |  Techniques  |
 |:----:|:-------------|:----------:|:----------:|:----------:|:------:|:------------:|
@@ -107,6 +107,7 @@ The main focus is on **problem solving, understanding patterns, and building str
 | 1513 | Number of Substrings With Only 1s | 🟡 | [Link](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [C++](solutions/1513_NumberOfSubstringsWithOnly1s.cpp) | `String` `Math` `Prefix Sum` | Consecutive Ones Contribution |
 | 1524 | Number of Sub-arrays With Odd Sum | 🟡 | [Link](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [C++](solutions/1524_NumberOfSubarraysWithOddSum.cpp) | `Prefix Sum` `Parity` `HashTable` | Prefix Parity Counting |
 | 1653 | Minimum Deletions to Make String Balanced | 🟡 | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [C++](solutions/1653_MinimumDeletionsToMakeStringBalanced.cpp) | `String` `PrefixSum` | Prefix-Suffix Cut Minimization |
+| 1680 | Concatenation of Consecutive Binary Numbers | 🟡 | [Link](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [C++](solutions/1680_ConcatenationOfConsecutiveBinaryNumbers.cpp) | `Math` `BitManipulation` | Bit Length Growth |
 | 1759 | Count Number of Homogenous Substrings | 🟡 | [Link](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [C++](solutions/1759_CountNumberOfHomogenousSubstrings.cpp) | `String` `Math` `PrefixSum` | Consecutive Character Contribution |
 | 2348 | Number of Zero-Filled Subarrays | 🟡 | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [C++](solutions/2348_NumberOfZeroFilledSubarrays.cpp) | `Array` `Math` `Counting` | Contribution Counting |
 | 3379 | Transformed Array | 🟢 | [Link](https://leetcode.com/problems/transformed-array/) | [C++](solutions/3379_TransformedArray.cpp) | `Array` `Simulation` | Index Mapping with Modulo |
